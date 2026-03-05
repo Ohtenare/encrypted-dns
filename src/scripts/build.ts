@@ -103,6 +103,7 @@ const REGIONS: Record<string, string> = {
   EU: '🇪🇺',
   SG: '🇸🇬',
   TW: '🇹🇼',
+  UA: '🇺🇦',
 };
 
 const validateIdent = (v: string, where = 'ident') => {
