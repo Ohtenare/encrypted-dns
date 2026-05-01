@@ -58,7 +58,7 @@
 | [Quad9 帶 ECS][quad9-ECS]                                                            | 🇨🇭    | 是   | 由 Quad9 基金會營運，支援 ECS，阻擋惡意軟體                                                                                     | [HTTPS][quad9-ECS-https-signed], [TLS][quad9-ECS-tls-signed]                                     | [HTTPS][quad9-ECS-https], [TLS][quad9-ECS-tls]                                     |
 | [Quad9 無過濾][quad9-nofilter]                                                       | 🇨🇭    | 否   | 由 Quad9 基金會營運                                                                                                             | [HTTPS][quad9-nofilter-https-signed], [TLS][quad9-nofilter-tls-signed]                           | [HTTPS][quad9-nofilter-https], [TLS][quad9-nofilter-tls]                           |
 | [Tiarap][tiarapp-default]                                                            | 🇸🇬 🇺🇸 | 是   | 由 Tiarap 公司營運，阻擋廣告、追蹤器、釣魚和惡意軟體                                                                            | [HTTPS][tiarapp-default-https-signed], [TLS][tiarapp-default-tls-signed]                         | [HTTPS][tiarapp-default-https], [TLS][tiarapp-default-tls]                         |
-| [ADNull DNS][adnull-default]                                                         | 🇺🇦    | 是   | Public DNS operated by ADNull. Blocks ads & tracking. Paid plans offer personalized DNS with advanced ad and phishing blocking. |                                                                                                  | [HTTPS][adnull-default-https]                                                      |
+| [ADNull DNS][adnull-default]                                                         | 🇺🇦    | 是   | Public DNS operated by ADNull. Blocks ads & tracking. Paid plans offer personalized DNS with advanced ad and phishing blocking. | [HTTPS][adnull-default-https-signed]                                                             | [HTTPS][adnull-default-https]                                                      |
 
 ## 安裝
 
@@ -239,3 +239,4 @@ macOS [（官方文檔）](https://support.apple.com/zh-tw/guide/mac-help/mh3556
 [quad9-nofilter-tls-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/quad9-nofilter-tls.mobileconfig
 [tiarapp-default-https-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/tiarapp-default-https.mobileconfig
 [tiarapp-default-tls-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/tiarapp-default-tls.mobileconfig
+[adnull-default-https-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/adnull-default-https.mobileconfig

@@ -64,7 +64,7 @@ Censorship (also known as "filtering") means the profile will not send true info
 | [Quad9 w/ ECS][quad9-ECS]                                                            | 🇨🇭     | Yes        | Operated by Quad9 Foundation. Supports ECS. Blocks malware                                                                      | [HTTPS][quad9-ECS-https-signed], [TLS][quad9-ECS-tls-signed]                                     | [HTTPS][quad9-ECS-https], [TLS][quad9-ECS-tls]                                     |
 | [Quad9 Unfiltered][quad9-nofilter]                                                   | 🇨🇭     | No         | Operated by Quad9 Foundation.                                                                                                   | [HTTPS][quad9-nofilter-https-signed], [TLS][quad9-nofilter-tls-signed]                           | [HTTPS][quad9-nofilter-https], [TLS][quad9-nofilter-tls]                           |
 | [Tiarap][tiarapp-default]                                                            | 🇸🇬 🇺🇸  | Yes        | Operated by Tiarap Inc. Blocks ads, tracking, phising & malware                                                                 | [HTTPS][tiarapp-default-https-signed], [TLS][tiarapp-default-tls-signed]                         | [HTTPS][tiarapp-default-https], [TLS][tiarapp-default-tls]                         |
-| [ADNull DNS][adnull-default]                                                         | 🇺🇦     | Yes        | Public DNS operated by ADNull. Blocks ads & tracking. Paid plans offer personalized DNS with advanced ad and phishing blocking. |                                                                                                  | [HTTPS][adnull-default-https]                                                      |
+| [ADNull DNS][adnull-default]                                                         | 🇺🇦     | Yes        | Public DNS operated by ADNull. Blocks ads & tracking. Paid plans offer personalized DNS with advanced ad and phishing blocking. | [HTTPS][adnull-default-https-signed]                                                             | [HTTPS][adnull-default-https]                                                      |
 
 ## Known issues
 
@@ -275,4 +275,5 @@ Censorship (also known as "filtering") means the profile will not send true info
 [quad9-nofilter-tls-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/quad9-nofilter-tls.mobileconfig
 [tiarapp-default-https-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/tiarapp-default-https.mobileconfig
 [tiarapp-default-tls-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/tiarapp-default-tls.mobileconfig
+[adnull-default-https-signed]: https://github.com/paulmillr/encrypted-dns/raw/master/signed/adnull-default-https.mobileconfig
 
