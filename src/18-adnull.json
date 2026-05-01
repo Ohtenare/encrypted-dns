@@ -12,7 +12,8 @@
     "variants": {
         "default": {
             "https": {
-                "ServerURLOrName": "https://dns.adnull.com/dns-query"
+                "ServerURLOrName": "https://dns.adnull.com/dns-query",
+                "signature": "30460221008ccc0cdea78e2451f2e7417110291a46c0fe7ef091d0b50bfbf7fed53750a844022100f1aba1543aacf20a86ab206bd92bfc6948e1c37fafcffeb4b1f29c89ee0fbbb9"
             }
         }
     }

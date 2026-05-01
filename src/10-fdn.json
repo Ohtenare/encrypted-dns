@@ -20,11 +20,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://ns0.fdn.fr/dns-query",
-                "signature": "3045022100fe76e468888071eacb8bf94a1afb14ce152965c5f2bca0052c1493ccbb36d037022031bc9a1b508519f7827e0ee3903799dea0f5983b81bd3cea3d8e8bd2997a3da7"
+                "signature": "3045022100a1a6d757234a8f9ff6f1fe4a3abc91fdf530c78d0db7d35c5bff67fd5e2365c4022062c0f0d771db807fc7816f894c8ccdf9ac9b603ed241bdb66a93ffb1bce1468a"
             },
             "tls": {
                 "ServerURLOrName": "dns.fdn",
-                "signature": "3044022066e68e444d5c97c4ae03ed5b02790acce9dc156103d28e1299b7e51bef53f8a7022027805e23cc2abd2ac41b000399af91770713e8cd202b5dd44cfe8248f8f7b93f"
+                "signature": "3046022100c441f4a38172a52318b035c60fc245acb955a65b45a016a7021dd400e30455330221008b061e2ece16b93f3b5205947e5b2415c0d8412cb6e03bd50d47514bbeb6702c"
             }
         }
     }

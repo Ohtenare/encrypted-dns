@@ -22,11 +22,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://dns.google/dns-query",
-                "signature": "30450220082db0be790fa00a8cec06c0d0f5df87bf84fd230014c49cad59d33df892e91c022100ea911e0f6bd8890095cc67c3ba19e9e83c661152841581f7e6012a2af17faa7a"
+                "signature": "3045022100d71a7db0fd08d3cfc8c8c1f1fd22122eb5fb093026ee5906d82810bc58370ac702206f8de6a1f63d01362e3e0ce4aac52233e157df98c5c5d08df3afe7dc1edd7014"
             },
             "tls": {
                 "ServerURLOrName": "dns.google",
-                "signature": "304402205e3224a88b1729aa91a9bfeaf3a6290f365449c8153e55f6a989e2a97ce91ae202206528f35e0fde9278bd2e01fb32f0c8bccb7ebf999e951f2ae042e1054299c5b0"
+                "signature": "3045022100c4b30c608e39b78f4e93cefeb9d9167b657cb4fdd5a76ca1ccdaae9d05f74aa902206a88b9932ba530be7c3bdabe3bb387f5a03b8c39f9567c1b713b4af6ec7d864a"
             }
         }
     }

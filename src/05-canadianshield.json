@@ -20,11 +20,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://private.canadianshield.cira.ca/dns-query",
-                "signature": "3045022100eb0b5ecf39a8918c17be90210ba5515d385b27777afb75eb28046478016d123f022009c500ab97664e99fe82ab092a39f32518ae812c9661ed0db12d21421bdab829"
+                "signature": "3046022100b2e2d4778811dcdefb3f7b17f5bd5ec0a892517ef05a76c8a62b90b8fe58ab47022100c3daf68e1ab537b639360e1edf74fe9307be71dc7af73fa7fbd31d8cba5f8caf"
             },
             "tls": {
                 "ServerURLOrName": "private.canadianshield.cira.ca",
-                "signature": "3045022100e4a9a6f7eddd3db61efa16d68a44351c365bc751fe03974125f9de8c913fbd4102201c79a1826ad9d261a26a553a332ec751dccb09130d0c6983f0fe37c11f912e06"
+                "signature": "304402200277e7c7abe9ba6aa3f665dc3ba7e79522f545d3fc1e9d373dcecfb29b600f61022043a63eced56127a7bf3aa16c4e1883b71570f56d4c1505e9e9da7c04195f4250"
             },
             "names": {
                 "en": "Private",
@@ -52,11 +52,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://protected.canadianshield.cira.ca/dns-query",
-                "signature": "304402207ecc88b83c46bb83d3d37b8c0b4150ff66d0839ad1eba739ad25261ffc61a75802200b8ad6da7849f7a1a7d3c5cc635060c6191d9f0a4a7d96fae8367b2c06115e47"
+                "signature": "304502207423b64a7cf4d2344c3abdd4dacec71c3faf738c8d49bfe69636deffa3312700022100fb7b9c44db79e1771f0bdba69de5a21efb7e8229b8694c93e04967e9ff32b93a"
             },
             "tls": {
                 "ServerURLOrName": "protected.canadianshield.cira.ca",
-                "signature": "304402206397986a7d3def4e12c25c3414f872a3de1dfd3a72b8e8e75b1e28441775fd9002200b240cbb7ec3b2a563d7304a0b9134e888d2694dc5e2df87c7037721c5b6dd2f"
+                "signature": "3046022100870826b5a7ee020d3b68005c1c979c6d34cca4e5e5a2d06e869fca56bf4875290221009b52bb52027ce534364b184d18e9e5804990ca976fd156dba6c6ff7272d73fa2"
             }
         },
         "family": {
@@ -79,11 +79,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://family.canadianshield.cira.ca/dns-query",
-                "signature": "3045022070c870743bf71838de470b99667cdec2a804dbe3df7697040571d63272b19e57022100c3e1b42a48421ce522795ed9e79d05ec7fb7d88a697d5f18076e6ef283e0334e"
+                "signature": "304502203deb2697c91a7d22e0382742454b41f901ea9a065dd3013badbae4b0a2b974fd022100b46d3bc3443664255e99c8fc76aa457164f93ecb6997ee0ceb6e02307e47f2f6"
             },
             "tls": {
                 "ServerURLOrName": "family.canadianshield.cira.ca",
-                "signature": "304402202c6e7f0fe6f7362a12ba559771c24068448bca3faf06abd730da8be997e285f20220126d903ec2f98dcecdd46c7db18e5e3950af4b8b1f97868113dec088cb1e1846"
+                "signature": "304402204bf2dc6f68be7a8ca03822b79ea50817c8d1c9edc9938b94315698110465fc08022076ab737f47bcf32f1a3376e763cc81ca3b0cd2bd29fb439ffed48c85e2557d0c"
             }
         }
     }

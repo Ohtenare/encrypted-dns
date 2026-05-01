@@ -15,7 +15,7 @@
         "cdn-adblock": {
             "https": {
                 "ServerURLOrName": "https://doh1.blahdns.com/dns-query",
-                "signature": "3045022100d1197f91d4678bd68cfa78cfd487a37b3783a1e7aedfe6048f835b99d11ff2e902206ab8c2e060feab91f22166e9e874dbfcb9c95c6eadb88440ba95d2b58fd75313"
+                "signature": "304402206f1222b24c5409783988d698f04cd85138fc14e484cb9d560cf954050fe711c302202c7fe966d9e92a5bd987206fd14abf08d45f53c9691681a759cdbd67ada873f5"
             },
             "names": {
                 "en": "CDN Filtered",
@@ -42,7 +42,7 @@
             "censorship": false,
             "https": {
                 "ServerURLOrName": "https://doh1.blahdns.com/uncensor",
-                "signature": "304402203ff18b8ee33567f827fb9fbab11313653e88070f314fa95e40dc1558f39b733702204f9f5b74815023320b5d3e558257fdb135832425b384087e141a4995b8da75d3"
+                "signature": "3045022068aa06d5be5a66f070b1099d35af220ec58e21fcea1ed4f30620cf59fa707003022100db91ad5b944e13ef6269780395d3b1a5f9f58bfa93c280bbbc54fc0c92aeb30c"
             }
         },
         "germany": {
@@ -58,7 +58,7 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh-de.blahdns.com/dns-query",
-                "signature": "30460221009f91f2f5b4905134c7e4e0bbcbae1331b0f32283affdd911f33e86760ce2a3e0022100dca0ee0fda0c9ff9c5ec23b255c2bc4f90288a4bfc8b0091007470b7952369a0"
+                "signature": "304602210081f511627a82ef81fa18d0ae92cc83c7158cb0a7bece26985ffffd1dd74f602c022100f0d775795ad1c01da0a92ad000708c843045a9b45ff9062c5216f42b72cf2b4d"
             },
             "notes": {
                 "en": "Blocks ads, tracking & malware",
@@ -79,7 +79,7 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh-sg.blahdns.com/dns-query",
-                "signature": "304402203afd29c961f211de6ff5b73896bdb7d7d3a9255a6147233df434ac371bf4a75e022053f66d018a48b159212cfb64382b7b0d0def6982a70be6526d8a05b087a3b20c"
+                "signature": "30460221009d57a0dc63bda32f82da178746478c2e0d64d5c22e24ba13b91594a2692360ef022100a9a2fdfe13b95db49dfe3fe9b38470f35faaba3d6a23c70859b13453b20101dd"
             },
             "notes": {
                 "en": "Blocks ads, tracking & malware",

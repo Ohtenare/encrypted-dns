@@ -21,7 +21,7 @@
             ],
             "https": {
                 "ServerURLOrName": "https://dnsnl.alekberg.net/dns-query",
-                "signature": "3044022005dac8a915cbafbd1e7eb7a118df0c206335fc4b49ec383b27361f1a3448cf5202205d5210e724aa386b7d28f9dd67471ae0e4df4ddb04d1fd2bf371ab392df206a8"
+                "signature": "304502206466696de198399e80d81f7ba11f28038931dbfda4e9fa4f03172f19e1c3eeec022100cee37c88cfe1eef1c849edb5f55375bbf6d4078c15819eb04b5e32b138e0f7ed"
             }
         }
     }

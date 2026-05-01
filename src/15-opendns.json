@@ -14,7 +14,7 @@
         "default": {
             "https": {
                 "ServerURLOrName": "https://doh.opendns.com/dns-query",
-                "signature": "30440220714a5e3f10c6b14a8f12405a39eed00c408b648b5af603434a06fdacefddc64b02204e1273ddb49649e84cb7a667f7fa0f273eaf0e0a39d151c66cca2f9e83aa946e"
+                "signature": "3045022004a12b164119401c9b4e66dffaa2e680d7b1e72773dac99a571bbf8e8704e321022100a832146a00f4b3e9f587e0e32b7ba7310cc675109bc3e08e03114912ad93fde9"
             },
             "names": {
                 "en": "Standard",
@@ -36,7 +36,7 @@
             "censorship": true,
             "https": {
                 "ServerURLOrName": "https://doh.familyshield.opendns.com/dns-query",
-                "signature": "304502201b7494f8fdbfe1ec83d99b960163eed13e040fc18c5ce3e00c254829661bae540221008cef5162f72d5f65534af2774c882288e627c4a8bb5ba2bf56e5047d628efff1"
+                "signature": "3045022100fb8353509f843fb2465baff9797a2f0fbb0066588bfdf965ee4c636508c3ef9002204e2304a781abeb5a547058491d5db6db306494d626f639b49555e1b45c3c76cc"
             }
         }
     }

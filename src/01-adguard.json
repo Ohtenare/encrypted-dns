@@ -30,11 +30,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://dns.adguard.com/dns-query",
-                "signature": "30440220375de2ae941e0cd18808a45a84441afe3bdc4b48546022965796123257afa5eb02201226d86321cc6346d4c404f466fa0fdd42b8e9ef5f893783216cbacc321505fc"
+                "signature": "304502207201e13bebb849c120e4abbc926b32fc8ee414c9ab49423b5d0f3e045b0cd224022100d738673e3f5064e1a35c96caf65283e59858e615569e22a81d3296f0446c3cca"
             },
             "tls": {
                 "ServerURLOrName": "dns.adguard.com",
-                "signature": "3046022100fa4420993bad29e01ea11240d5df3a5b2d531618e2553797bd7a402790ee663e0221008d90318c0e60b526c0ef231cf0a2b3cdec47e3f2c08c549fceca51ab08065403"
+                "signature": "304502210096ee7c55787b580112f475138f23a9297570d957dbe818f02f344e23e22ef46302200a1b0b1d72425c32b2683a8ec3f7a046a74e9ecd73f14f57f5e8f39bcffb6936"
             }
         },
         "family": {
@@ -57,11 +57,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://dns-family.adguard.com/dns-query",
-                "signature": "3044022036dfca78ce0f7e24e04f299a96e9b8ce2fa563467c6fcf82cc2cf54be30f372b02206bb26c0740e8c117ad80e722f2a8d5a65bfdacdc967590a516d56e9d03a985af"
+                "signature": "3044022076505cda50065af483e8722939f5f6faba1884b31aa5025718543fd01149081702203c4cce69f073129b3dd99099ee6bfe089d6a82b24746c4f180508cda2d898a5b"
             },
             "tls": {
                 "ServerURLOrName": "dns-family.adguard.com",
-                "signature": "304502201271423ed65dd0a26d1c77032b80ee70aa692c62363e8ad088b5a89cf1be9405022100a615e2a22ae529891e1c86aff96620944b87afdd5b83e3d9c65e88fa613598be"
+                "signature": "3045022010f88850528e681c11934d4b52e6f7a671e889ca99c6e9165557bd3505dca1f5022100afcbc92a70aa4783c4530833646e97368e9b43687fa972d0c8731129325dc904"
             }
         },
         "nofilter": {
@@ -85,11 +85,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://dns-unfiltered.adguard.com/dns-query",
-                "signature": "3045022100ba4b7877563695b68bb3ab7b384a7efcd00cb8c365f0175e181f39f697916f3002203bccc566117ccbc73ff82d8139cbd9b703316d213d17637b4088a4124b99f62c"
+                "signature": "3045022010930cceaa9953f720eb94bd5bc305b3509c7e5f153bb6639b32ca3455813d7c022100e61ce1615372e3e8ec9298e98c2acb4c3c31e9cc7f2a15bbf77cf53c4f6935af"
             },
             "tls": {
                 "ServerURLOrName": "dns-unfiltered.adguard.com",
-                "signature": "304502207d32991b63ececdb6217056c9ce4af7d5a7caa7b540d36665ae0bf57234d2473022100c336269381b09ed2e3d5363a42f4599cc6c23f025a9156e9aae3081358e1e4dc"
+                "signature": "304602210097b12fbea0988b7ff4e84becb3ce7d9a0d86fa5502c88b5eb088f1faf29eda85022100f9707e1e304fd30d5981427bcd380d24a65d9f2244e5472004e3a82d768726bb"
             }
         }
     }

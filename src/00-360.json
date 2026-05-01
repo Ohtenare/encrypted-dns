@@ -20,7 +20,7 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh.360.cn/dns-query",
-                "signature": "3045022100cf0b6200ce7979bb818415db139aa97f6b6db8d717379c2ed523e485023a1e330220735fd05cbca306fe688503bec1fb2edcdd4688b8c95fe0e8b0e8e6db173b1de7"
+                "signature": "3045022100f90ba7ca7d511a93a55e81515b272275eb03ca520e2c42e948031bd32730f61c0220483d1c92c7903a498fdfddebbc6e6341911272f5067df7b779aadd6bf5639253"
             }
         }
     }

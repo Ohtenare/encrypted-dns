@@ -20,11 +20,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh.pub/dns-query",
-                "signature": "3046022100a1e11d6e6bd66005a345d35d87256ca7f4148996b15908f5bf9e7c8d368a9a1002210085f5dc0214602e8d53af50d3cdafac9068b9c5f16f1638095a929b830d09f655"
+                "signature": "3046022100a75be9e3066cbce486d16a2e98bf2c82d55b63475f06d5afa5e4b1ab0c60794f0221009bdf5c2986b759eb98ef887216357cc4f8cc908dea6d3b7b92c8175dc5dab624"
             },
             "tls": {
                 "ServerURLOrName": "dot.pub",
-                "signature": "3046022100eb47e3b0933d906768b49b77051f77392bb221850ddaf1b394e3af7a0830cba0022100ba015a8c9ab990afa499b93b9d63984d0e5e0c74ebaca84befa976c35cd938a3"
+                "signature": "3046022100854c75a6e39048b3110930e99bc2dfebdbed565b97bdd2fbe44b4a3cd245a12e02210085254673ecc67c3480cc58862aff9ce205ef9d8e455a2390221e7d84a8dab278"
             }
         }
     }

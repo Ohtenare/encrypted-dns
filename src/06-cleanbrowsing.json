@@ -15,11 +15,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh.cleanbrowsing.org/doh/family-filter/",
-                "signature": "3045022100e116667db75c84e7c224872a91110dbf175db1e307d13c0cb3fe903aed084ab402203a5addc46dfa935ab72bb2cf1be35ba44463c8358186d3e016e300328eb26ea0"
+                "signature": "3045022065fe868daa35c9468cec7c494d993893d4f6bd04c1765a74172246772b130c97022100c6c95620281bc3a2d3d5ac337468825c8d83174960fecd547ffb4275c748286c"
             },
             "tls": {
                 "ServerURLOrName": "family-filter-dns.cleanbrowsing.org",
-                "signature": "3046022100ce3eb2b2a462990326fdea4b6b7c2f771fd22ba2932efae72228c8d16b15f1a50221008d8640146bc45e1231ba3388d1a5f8019054b7454192b7f9825577f42d6cea2d"
+                "signature": "3046022100a0337445c8d31374b719678a2879543692418008920c17412ded9333b27adc36022100f14c6d4007fa8499a5f87442bf57913a9db32304dd590e54c93e67e2157412eb"
             },
             "names": {
                 "en": "Family Filter",
@@ -51,11 +51,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh.cleanbrowsing.org/doh/adult-filter/",
-                "signature": "304402201bcf2615d755b30a6c2b4e38a0b5f10e31c27ecb911f75931d9445d69890885f022077daa29854203da1ab48d1b52b837f003fc6bf08a5263b86fef07ca59b67c00d"
+                "signature": "3046022100f8932eca75a2acb1445d20d6723a7b0ace2bc36c6686dd216afad20dceccc3c9022100e611ec37b40f5d6d869893dfa354cde7cd01a80d6ddaaea8016c8950caf33b3b"
             },
             "tls": {
                 "ServerURLOrName": "adult-filter-dns.cleanbrowsing.org",
-                "signature": "30450221008ca3aa72e34af676d5ff24afe939a9ad5ce08bb695f33b572a7a970c29c2ba88022050909ba8c55dbb6e4eb3c36c24b0fa51a32e8056a46e822cc5618185cf073dc6"
+                "signature": "304502203cd4a787b877d2758ea2a6223101dc19e56ffc57773a5866413df49e5167505c022100c5885e06e4dbb3e80bbde5558722447c0b4e76fe9ac0caf72605bcf5bb1f4b3f"
             }
         },
         "security": {
@@ -77,11 +77,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://doh.cleanbrowsing.org/doh/security-filter/",
-                "signature": "3046022100aff11ce818e66df55d4b59761c7714d23f1dc37d848f7a9e9d9135844ba5e2f8022100ac8cd28cccac15fbd7c9ef6a647200fbdde5aee299bd2ab8f11edc5127c20b38"
+                "signature": "304402204deb572f2476756ab8e698a352a387efa9541683f3211922794e4e30db1b32ee02203f6d8985086ed94d2d3b7d329248d2bf2ff3330fabe8a910c04f0a92c5d36984"
             },
             "tls": {
                 "ServerURLOrName": "security-filter-dns.cleanbrowsing.org",
-                "signature": "3045022100e746604c4b341d9563f14fc87658157e16737909e9836d6e748eeeb1ce5ee3db022053320f489c7d148a70356d0778086e4cb3d3bcefbbcf5b6f7d6a18ad741edb85"
+                "signature": "30440220440b0d9929e197979de6a26454b4be291649a7bcf10ee14f071cc664d294c1fe02205ad11424e176328e18014a97558c75d67e127240abe39a95b6a5085dfa80969c"
             }
         }
     }

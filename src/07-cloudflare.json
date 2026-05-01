@@ -20,11 +20,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://cloudflare-dns.com/dns-query",
-                "signature": "3046022100a02a5c33109ca27befc04ef356f2cf6bf108be7a90063ee58263f126e8de59bc022100fe97730bb1fc44d4995e201a0bbfc725d551cee28a4b44aa1292ce019a40f886"
+                "signature": "3044022056518b91b094da10ba0be51276e3cd7464458109ae9328f98d35c89f5cc64a66022068f59e3084846f1492cb6c98159bc2386044d75cc55c4de9ab17a14fc4aacc78"
             },
             "tls": {
                 "ServerURLOrName": "one.one.one.one",
-                "signature": "304402206bc315756e6167b9cddb2af35283b366e92a52dd972d8c6f231d53a143bcaeff022038325f16dda82a4e3539fb8da458c2d2f37f0b2bfd6e44120db039faf8c97f3c"
+                "signature": "3045022100eabaa9cf71c291435bba10b5e67b926b2a74be2acb5a0de999bc04819893e56602205d8216e8e8ae8821018b427a318e0111cb7e384df18edc1b1f5333b409196807"
             }
         },
         "malware": {
@@ -47,7 +47,7 @@
             ],
             "https": {
                 "ServerURLOrName": "https://security.cloudflare-dns.com/dns-query",
-                "signature": "304502206319ac3ea232414c6acffd2771a27b854e01c18b4a9f0b469d91b7f3dacc72a2022100fdd25c7b3565991e559b465a9c1ae088ab3fa2937be1cc7ad90dfca539e7034c"
+                "signature": "3045022018dc0c3b7fedfe6639f7a0f181bd4e17437c5e95bc849b42aad9d10206b3a7c3022100c4dd9ec7e0593b16d5fe37ff187856088d6af903d3247252ac858284cedb4825"
             }
         },
         "family": {
@@ -71,7 +71,7 @@
             ],
             "https": {
                 "ServerURLOrName": "https://family.cloudflare-dns.com/dns-query",
-                "signature": "30450220020714ea5d23a024b1f021ade296da07e9f1b165df402938c571999d5e9e72eb02210094f10b12d8746caf66486e7dec454767d6fb58283b4914ae1607edc5b93abe54"
+                "signature": "304502205b24a25db48f7e93658fe7297d9218419bcdbed6b4ae4cdf2b3a98c8a72aec42022100d63dcda3b6b47ce21ebbb695211385858fca51b87fc679fd3a3d12553b8ef767"
             }
         }
     }

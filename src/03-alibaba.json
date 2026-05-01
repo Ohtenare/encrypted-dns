@@ -22,11 +22,11 @@
             ],
             "https": {
                 "ServerURLOrName": "https://dns.alidns.com/dns-query",
-                "signature": "3043022006a1f7c364f18b69de9a65ad82cc5647f6ec035a9efb7d84bb16237c656e8ea5021f7a0b048a82d147acfb2726cdc48a9bb5ce0c19b701d0b2dde23baf51b6b073"
+                "signature": "3046022100d0fca46392c3abc0a21b84ba6c15fc1d80adfbd444bd39a5df2e7ef0719008ce022100be213f306335c63db65b7adaf858a4af93eaafb4af6c190e68be0992a335c5af"
             },
             "tls": {
                 "ServerURLOrName": "dns.alidns.com",
-                "signature": "3045022017e0041af2292d0f2d1e152faa7ae95902699a9d240350706e2febb7b8ef3fad022100c4686424fd5827bd250bb40964cd18154bc9fb862c5e63fd2e0a79fd1241768e"
+                "signature": "30440220123102e719bf1df554250cbe6227a968d3d4d8affa379faa5e9655bce762ea0a022027ebd73e80ef41a10f8339cc99be7b27674324042dd538621ea0084c90dbf4de"
             }
         }
     }

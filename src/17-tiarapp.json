@@ -17,11 +17,11 @@
         "default": {
             "https": {
                 "ServerURLOrName": "https://doh.tiar.app/dns-query",
-                "signature": "3045022100e23af03cb0a254c250ec9d6b7ffa6041b60735b1f2459b7f18cafba5452939c902201b9320e62777df3b720904983542dfe3be41abb0f728735c0f29defd83cee937"
+                "signature": "30450220218a91af3baa13799aa1e534f3e63d1801647b1c0e69338ef782723947b1c9a2022100d47e4c3edc666b5b6ff6ef6d36f541882c767ca745f88f72f0f1fe2dd26c600b"
             },
             "tls": {
                 "ServerURLOrName": "dot.tiar.app",
-                "signature": "3045022075fba1923446ee05daa54b20c90b771a3a52b0614d69d98082e14e2c51736d5e0221008b59f0b0e1922ac14e3f983b7e49be355280b3035cce456da14d07c7337c5208"
+                "signature": "3046022100f9186bf91be321f072c485cacd4316dac770ac8f28545afb748a754f0faddd15022100c50e4b285e585e60ac224054a16347e359e2b06ebc414f19a3136ea2ac02db45"
             }
         }
     }
