@@ -11,7 +11,7 @@
     "format": "prettier --write \"src/*.json\" src/scripts/*.ts"
   },
   "dependencies": {
-    "@noble/hashes": "2.0.1",
+    "@noble/hashes": "2.2.0",
     "micro-key-producer": "0.8.6",
     "prettier": "3.6.2"
   }
